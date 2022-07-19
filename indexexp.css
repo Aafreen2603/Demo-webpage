@@ -1,0 +1,55 @@
+html,
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    background-color:#f6e5d9;
+}
+.main{
+    background-color:#f6e5d9;
+}
+.main2{
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.toptext{
+    margin-top: 10px;
+    color: #d1966a;
+    font-size: small;
+    font-weight: 400;
+    text-shadow: 1px 1px white;
+}
+.navbar-brand{
+    margin-left: 10px;
+    Box-sizing: border-box;  
+}
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 3px 3px white;
+}
+
+.lead{
+    margin-top: 20px;
+    font-weight: 600;
+    color: #d1966a;
+    text-shadow: 1px 1px white;
+}
+hr{
+    width: 100%;
+    text-align: left;
+    margin-left: 0;
+}
+
+.row{
+    margin-top: 20px;
+    margin-left: 10%;
+}
+.g-4{
+    width: 80%;
+}
+
+footer{
+    padding: 30px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.333);
+}
